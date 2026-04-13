@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pydantic
+python-multipart
+speechrecognition
+pyttsx3
+gTTS
+python-dotenv
+pydub
+soundfile
+pocket-tts

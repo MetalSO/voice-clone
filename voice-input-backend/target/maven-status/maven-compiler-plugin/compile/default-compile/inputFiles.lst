@@ -1,0 +1,11 @@
+D:\trea speech synthesis\voice-input-backend\src\main\java\com\speech\dto\RecognitionRequest.java
+D:\trea speech synthesis\voice-input-backend\src\main\java\com\speech\dto\RecognitionResponse.java
+D:\trea speech synthesis\voice-input-backend\src\main\java\com\speech\exception\GlobalExceptionHandler.java
+D:\trea speech synthesis\voice-input-backend\src\main\java\com\speech\exception\SpeechException.java
+D:\trea speech synthesis\voice-input-backend\src\main\java\com\speech\SpeechApplication.java
+D:\trea speech synthesis\voice-input-backend\src\main\java\com\speech\config\WebConfig.java
+D:\trea speech synthesis\voice-input-backend\src\main\java\com\speech\service\impl\SpeechRecognitionServiceImpl.java
+D:\trea speech synthesis\voice-input-backend\src\main\java\com\speech\service\SpeechRecognitionService.java
+D:\trea speech synthesis\voice-input-backend\src\main\java\com\speech\controller\SpeechController.java
+D:\trea speech synthesis\voice-input-backend\src\main\java\com\speech\dto\RecognitionResult.java
+D:\trea speech synthesis\voice-input-backend\src\main\java\com\speech\dto\ApiResponse.java

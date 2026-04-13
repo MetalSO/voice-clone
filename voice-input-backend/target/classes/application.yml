@@ -1,0 +1,15 @@
+server:
+  port: 8080
+
+spring:
+  servlet:
+    multipart:
+      enabled: true
+      max-file-size: 10MB
+      max-request-size: 10MB
+
+speech:
+  baidu:
+    app-id: ${BAIDU_APP_ID:your_app_id}
+    api-key: ${BAIDU_API_KEY:your_api_key}
+    secret-key: ${BAIDU_SECRET_KEY:your_secret_key}

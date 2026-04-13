@@ -1,0 +1,14 @@
+com\speech\SpeechApplication.class
+com\speech\dto\RecognitionRequest.class
+com\speech\dto\RecognitionResponse.class
+com\speech\service\SpeechRecognitionService.class
+com\speech\dto\ApiResponse$ApiResponseBuilder.class
+com\speech\dto\ApiResponse.class
+com\speech\service\impl\SpeechRecognitionServiceImpl.class
+com\speech\dto\RecognitionResponse$RecognitionResponseBuilder.class
+com\speech\exception\SpeechException.class
+com\speech\config\WebConfig.class
+com\speech\dto\RecognitionResult$RecognitionResultBuilder.class
+com\speech\dto\RecognitionResult.class
+com\speech\exception\GlobalExceptionHandler.class
+com\speech\controller\SpeechController.class
